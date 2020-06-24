@@ -11,6 +11,10 @@
 [![npm](https://img.shields.io/npm/dm/vue-baidu-map.svg)]()
 [![license](https://img.shields.io/github/license/dafrok/vue-baidu-map.svg)]()
 
+## Special Instruction
+
+当前包是从Dafrok的vue-baidu-map拷贝过来的，由于原作者一直未维护vue-baidu-map这个包，本人拷贝过来作为个人使用，并将百度地图API更改为3.0
+
 ## 语言
 
 - [中文](https://github.com/Dafrok/vue-baidu-map/blob/master/README.zh.md)

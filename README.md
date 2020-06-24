@@ -1,4 +1,4 @@
-# VUE BAIDU MAP
+# VUE BAIDU MAP V3
 
 <p align="center">
   <img src="https://dafrok.github.io/vue-baidu-map/favicon.png" width="200px">
@@ -10,6 +10,10 @@
 [![Package Quality](http://npm.packagequality.com/shield/vue-baidu-map.svg)](http://packagequality.com/#?package=vue-baidu-map)
 [![npm](https://img.shields.io/npm/dm/vue-baidu-map.svg)]()
 [![license](https://img.shields.io/github/license/dafrok/vue-baidu-map.svg)]()
+
+## Special Instruction
+
+The current package is copied from the Vue-Baidu-Map of Dafrok. Since the original author has not maintained the Vue-Baidu-Map package, I copied it for personal use and changed the BAIDU Map API to 3.0
 
 ## Languages
 
@@ -25,14 +29,14 @@
 ### Installation
 
 ```bash
-npm i --save vue-baidu-map
+npm i --save vue-baidu-map-v3
 ```
 
 ### Initialization
 
 ```javascript
 import Vue from 'vue'
-import BaiduMap from 'vue-baidu-map'
+import BaiduMap from 'vue-baidu-map-v3'
 
 Vue.use(BaiduMap, {
   /* Visit http://lbsyun.baidu.com/apiconsole/key for details about app key. */
